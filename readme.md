@@ -59,6 +59,8 @@ Freimann Sven - SFreimann
 
 Forrer Nicolas - nicolasforrer
 
+Freudiger Jessica - jfreudiger
+
 ## G
 
 Geyer Simon - geyersimo
